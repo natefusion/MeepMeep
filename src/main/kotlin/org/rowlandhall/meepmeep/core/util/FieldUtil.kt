@@ -10,11 +10,11 @@ class FieldUtil {
     companion object {
         /** The width of the field. */
         @JvmStatic
-        var FIELD_WIDTH = 141
+        var FIELD_WIDTH = 48
 
         /** The height of the field. */
         @JvmStatic
-        var FIELD_HEIGHT = 143
+        var FIELD_HEIGHT = 96
 
         /** The width of the canvas in pixels. */
         @JvmStatic
